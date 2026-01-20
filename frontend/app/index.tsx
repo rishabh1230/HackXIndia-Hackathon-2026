@@ -124,14 +124,14 @@ export default function SetLocationScreen() {
   const handleConfirm = () => {
   //place mode - just go back
   if (isPlaceMode) {
-      router.replace(returnTo || "/frequent-places");
+      router.push(returnTo || "/frequent-places");
       return;
     }
 
     //save previous city
     savePreviousCity();
     // ✅ PICK MODE
-    router.replace({
+    router.push({
       pathname: returnTo || "/frequent-places",
       params: {
         latitude: String(region.latitude),
