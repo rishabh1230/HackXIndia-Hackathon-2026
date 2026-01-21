@@ -119,7 +119,7 @@ where you can paste screenshots, diagrams, or flow visuals.
 
 ### 🖼️ IMAGE PLACEHOLDER — STEP 1  
 *(User input / relocation selection screen)*  
- <img src="./assets/page1.jpeg" width="100%" />
+ <img src="./assets/page1.jpeg" width="10%" />
 
 ---
 
@@ -151,7 +151,7 @@ where you can paste screenshots, diagrams, or flow visuals.
 
 ### 🖼️ IMAGE PLACEHOLDER — STEP 2  
 *(Distance calculation / map radius visualization)*  
- <img src="./assets/page2.jpeg" width="100% />
+ <img src="./assets/page2.jpeg" width="10% />
 
 ---
 
@@ -183,7 +183,7 @@ where you can paste screenshots, diagrams, or flow visuals.
 
 ### 🖼️ IMAGE PLACEHOLDER — STEP 3  
 *(Nearby places plotted on map in new city)*  
-<img src="./assets/page3.jpeg" width="100%" />
+<img src="./assets/page3.jpeg" width="10%" />
 
 ---
 
@@ -212,7 +212,7 @@ where you can paste screenshots, diagrams, or flow visuals.
 
 ### 🖼️ IMAGE PLACEHOLDER — STEP 4  
 *(AI comparison output / ranked cards UI)*  
- <img src="./assets/page4.jpeg" width="100%" />
+ <img src="./assets/page4.jpeg" width="10%" />
 
 ---
 
@@ -239,7 +239,7 @@ where you can paste screenshots, diagrams, or flow visuals.
 
 ### 🖼️ IMAGE PLACEHOLDER — STEP 5  
 *(Final app UI showing recommendations)*  
- <img src="./assets/page1.jpeg" width="100%" />
+ <img src="./assets/page1.jpeg" width="10%" />
 
 ---
 
